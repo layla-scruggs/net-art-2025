@@ -1,0 +1,198 @@
+* { 
+    margin: 0;  
+  }
+
+.full {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    color: white;
+}
+
+
+
+.item1 {
+    background-color: rgb(81, 105, 42);
+    background-image: url(https://c1.wallpaperflare.com/preview/728/18/363/hurricane-isabel-tropical-cyclone-cyclone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 61.8%;
+    height: 100vh;
+}
+
+.item2 {
+    background-color: #36cfc2;
+    background-image: url(https://bluelabyrinths.com/wp-content/uploads/2015/03/m101_hires_stsci-prc2006-10a.jpg?w=1200);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 38.2%;
+    height: 38.2vh;
+}
+
+.item3 {
+    background-color: #6d1440;
+    background-image: url(https://www.robertharding.com/blog/wp-content/uploads/2014/01/817-2030.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    width: 23.6%;
+    height: 61.8vh;
+}
+
+.item4 {
+    background-color: #cb531f;
+    background-image: url(https://external-preview.redd.it/uKM3fGHonQisL71SvvzSQA-07_3US08INdVJa8qwH28.jpg?width=640&crop=smart&auto=webp&s=9501e645565221970f158c558384826bf3790b10);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    width: 5.589%;
+    height: 5.58vh;
+}
+
+.item5 {
+    background-color: #332493;
+    background-image: url(https://64.media.tumblr.com/a04a700895cde46bc0e727f9ee34966b/772c109fb88c4642-d3/s640x960/b28913d8379f004b790211b92c9bafb55c5bb798.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 9%;
+    height: 9vh;
+}
+
+.item6 {
+    background-color: #824392;
+    background-image: url(https://4.bp.blogspot.com/-z9y-nrNSnz8/U4jLRcZH5mI/AAAAAAAABd0/Zypbia59wio/s400/4733975909_3ef4692478_z.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 3.44%;
+    height: 3.44vh;
+}
+
+.item7 {
+    background-color: #1b926c;
+    background-image: url(https://i0.wp.com/www.naturphilosophie.co.uk/wp-content/uploads/2014/04/Fibonacci_Sequence_Nautilus_Shell1.jpg?ssl=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 2.15%;
+    height: 2.15vh;
+}
+
+.item8 {
+    background-color: #bc1c34;
+    background-image: url(https://www.caldercrystals.com/wp-content/uploads/2023/02/CC-Ammonite-Half-Slice-05-7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 1.3%;
+    height: 1.3vh;
+}
+
+.item9 {
+    background-color: #cc9c23;
+    background-image: url(https://images.newscientist.com/wp-content/uploads/2016/07/13181608/gettyimages-129834054.jpg?crop=16:9,smart&width=1200&height=675&upscale=true);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 0.86%;
+    height: 0.86vh;
+}
+
+.item10 {
+    background-color: #250ad6;
+    background-image: url(https://i.redd.it/je3jmd2wpk591.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 0.4%;
+    height: 0.4vh;;
+}
+
+.item11 {
+    background-color: #d367d3;
+    background-image: url(https://i.pinimg.com/736x/40/19/06/401906cad6800dbd99549fb6fc8005fe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 0.434%;
+    height: 0.4vh;;
+}
+
+.item12 {
+    background-color: #a9c041;
+    background-image: url("flower.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 14.58%;
+    height: 52.8vh;
+}
+
+
+
+/* fib */
+
+.a {
+    position: absolute;
+    left: 13.5%;
+    top: 12vh;
+    width: auto;
+}
+
+.b {
+    position: absolute;
+    left: 66%;
+    top: 20vh;
+    width: auto;
+}
+
+.c {
+    position: absolute;
+    left: 54%;
+    top: 22.7vh;
+    width: auto;
+}
+
+.d {
+    position: absolute;
+    left: 79%;
+    top: 37.5vh;
+    width: auto;
+}
+
+.e {
+    position: absolute;
+    left: 2%;
+    top: 47.5vh;
+    width: auto;
+}
+
+.f {
+    position: absolute;
+    left: 74%;
+    top: 57.5vh;
+    width: auto;
+}
+
+.g {
+    position: absolute;
+    left: 44%;
+    top: 67.5vh;
+    width: auto;
+}
+
+.h {
+    position: absolute;
+    left: 10%;
+    top: 87.5vh;
+    width: auto;
+}
+
+.fib > .item {
+    background-color: #171e05fe;
+    color: rgba(146, 161, 212, 0.508);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
