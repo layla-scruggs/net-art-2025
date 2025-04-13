@@ -1,0 +1,103 @@
+
+body {
+    background-color: rgb(68, 103, 58);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(235, 198, 182);
+}
+
+.look {
+    text-align: center;
+    font-size: 300%;
+}
+
+.list, #basket {
+    font-size: 120%;
+}
+
+
+.bee {
+    color: rgb(68, 103, 58);
+    transition: color 0.2s ease-in;
+    position: absolute;
+    top: 20vh;
+    left: 23%;
+    font-size: 70%;
+}
+
+.ladybug {
+    color: rgb(68, 103, 58);
+    transition: color 0.2s ease-in;
+    position: absolute;
+    top: 43vh;
+    left: 44%;
+    font-size: 100%;
+}
+
+.butterfly {
+    color: rgb(68, 103, 58);
+    transition: color 0.2s ease-in;
+    position: absolute;
+    top: 17vh;
+    left: 60%;
+    font-size: 90%;
+}
+
+.snail {
+    color: rgb(68, 103, 58);
+    transition: color 0.2s ease-in;
+    position: absolute;
+    top: 75vh;
+    left: 34%;
+    font-size: 100%;
+}
+
+.caterpillar {
+    color: rgb(68, 103, 58);
+    transition: color 0.2s ease-in;
+    position: absolute;
+    top: 70vh;
+    left: 80%;
+    font-size: 100%;
+}
+
+.dragonflies {
+    color: rgb(68, 103, 58);
+    transition: color 0.2s ease-in;
+    position: absolute;
+    top: 47vh;
+    left: 68%;
+    font-size: 150%;
+}
+
+
+
+/* appear when mouse hovers over */
+
+.bee:hover {
+    color: rgb(194, 171, 57);
+}
+
+.ladybug:hover {
+    color: rgb(221, 108, 108);
+}
+
+.butterfly:hover {
+    color: rgb(132, 154, 220);
+}
+
+.snail:hover {
+    color: rgb(47, 27, 20);
+}
+
+.caterpillar:hover {
+    color:rgb(167, 211, 144);
+}
+
+.dragonflies:hover {
+    color: rgb(216, 208, 193);
+}
+
+
+
+
+
