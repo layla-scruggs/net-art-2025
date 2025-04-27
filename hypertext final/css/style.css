@@ -1,0 +1,97 @@
+
+body {
+    text-align: center;
+    background-color: #516f3d;
+    color: rgb(188, 209, 176);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 130%;
+}
+
+.body2 {
+    text-align: center;
+    background-color: #55524f;
+}
+
+.body3 {
+    text-align: center;
+    background-color: #413d9b;
+}
+
+.body4 {
+    background-color: #52afc9;
+    background-image: url("/hypertext\ final/images/sky.png");
+    background-size: cover;
+}
+
+.body5 {
+    background-color: #886249;
+}
+
+.title {
+    color: rgb(204, 233, 198);
+}
+
+.ascii {
+    font-size: 10%;
+    color: rgb(0, 0, 0);
+}
+
+.t1 {
+    position: absolute;
+    width: 100%;
+    left: 0%;
+    top: 50vh;
+    
+}
+
+.t2 {
+    position: absolute;
+    left: 0%;
+    width: 100%;
+    top: 100vh;
+    
+}
+
+.ss {
+    color: rgba(30, 138, 140, 0.661);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+}
+
+.final {
+    background-color: #44a8b5ad;
+    color: white;
+    width: 35%;
+    margin: auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.final2 {
+    background-color: #44a8b5ad;
+    color: white;
+    width: 30%;
+    margin: auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#f {
+    color: rgb(21, 104, 129);
+}
+
+.choice1:link {
+    color: rgb(30, 59, 36);
+}
+
+.choice2:link {
+    color: rgb(31, 32, 31);
+}
+
+.choice3:link {
+    color: rgb(23, 23, 73);
+}
+
+.choice4:link {
+    color: rgb(42, 30, 23);
+}
