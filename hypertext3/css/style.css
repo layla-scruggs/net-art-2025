@@ -1,0 +1,152 @@
+
+body {
+    text-align: center;
+    background-color: #516f3d;
+    color: rgb(188, 209, 176);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 140%;
+    
+}
+
+.body2 {
+    text-align: center;
+    background-color: #55524f;
+}
+
+.body3 {
+    text-align: center;
+    background-color: #45427f;
+}
+
+.body4 {
+    background-color: #62b5d8;
+}
+
+.body5 {
+    background-color: #886249;
+}
+
+.title {
+    color: rgb(204, 233, 198);
+    font-size: 150%;
+}
+
+.ascii > img {
+    margin: auto;
+    width: 90%;
+    left: 0%;
+}
+
+.ascii2 {
+    margin: auto;
+    width: 90%;
+    left: 0%;
+}
+
+.ss {
+    color: rgb(35, 116, 118);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+}
+
+.final {
+    color: rgb(211, 233, 241);
+    width: 100%;
+    left: 0%;
+}
+
+.final2 {
+    color: rgb(211, 233, 241);
+}
+
+.diff {
+     color: rgba(188, 209, 176, 0.415);
+}
+
+#f {
+    color: rgb(21, 104, 129);
+}
+
+.choice1:link, .choice1:visited {
+    color: rgb(30, 59, 36);
+    text-decoration: none;
+}
+
+.choice1:hover {
+    color: rgb(204, 233, 198);
+}
+
+.choice2:link, .choice2:visited {
+    color: rgb(31, 32, 31);
+    text-decoration: none;
+}
+
+.choice2:hover {
+    color: rgb(204, 233, 198);
+}
+
+.choice3:link, .choice3:visited {
+    color: rgb(23, 23, 73);
+    text-decoration: none;
+}
+
+.choice3:hover {
+    color: rgb(204, 233, 198);
+}
+
+.choice4  {
+    font-size: 130%;
+    margin: auto;
+    left: 0%;
+    width: 70%;
+}
+
+.choice4:link, .choice4:visited {
+    color: rgb(42, 30, 23);
+    text-decoration: none;
+}
+
+.choice4:hover {
+    color: rgb(204, 233, 198);
+}
+
+.choice5:link, .choice5:visited {
+    font-size: 150%;
+    color: white;
+    text-decoration: none;
+}
+
+.choice5:hover {
+    color: rgb(33, 83, 103);
+}
+
+
+@media screen and (max-width: 576px) {
+
+    .title {
+        font-size: 80%;
+    }
+
+    p {
+        font-size: 90%;
+        padding: 0 25px 0 16px;
+        text-align: left;
+    }
+
+    .ascii > img {
+        width: 95%;
+    }
+
+    .ascii2 {
+        width: 95%;
+    }
+
+    .choice4 {
+        font-size: 75%;
+    }
+
+    .ss {
+        text-align: center;
+    }
+
+}
